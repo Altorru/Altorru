@@ -22,19 +22,33 @@ Currently completing a Bachelor CDA (Concepteur Développeur d'Applications) in 
 ### Tech Stack
 
 **Languages**
-`TypeScript` · `JavaScript` · `PHP` · `Python` · `Shell`
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
 **Backend**
-`Laravel` · `Symfony (Panther / Chromedriver)` · `Go (Fiber)` · `REST APIs`
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Go](https://img.shields.io/badge/Go%20(Fiber)-00ADD8?style=flat-square&logo=go&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
 
 **Frontend**
-`Vue.js / Nuxt` · `React Native (Expo)`
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
 **Infra & DevOps**
-`Docker` · `Kubernetes` · `GitLab CI/CD`
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
 **Automation & AI Tooling**
-`n8n` · `GitHub Copilot` · `LLM-assisted prototyping & documentation`
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![LLM-assisted](https://img.shields.io/badge/LLM--assisted%20prototyping-412991?style=flat-square&logo=openai&logoColor=white)
 
 > Scope note: this list reflects what I actually use in production and freelance work — some of it (Laravel/Symfony/Nuxt stack, Kubernetes) runs on client projects that aren't public repositories.
 
@@ -58,7 +72,7 @@ Website creation, AI-driven automations, and custom business software for local 
   <img src="https://github-readme-stats.vercel.app/api?username=Altorru&show_icons=true&theme=default&hide_title=false" alt="GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Altorru" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=Altorru" alt="GitHub streak" />
 </p>
 
 ---
