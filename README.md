@@ -69,10 +69,10 @@ Website creation, AI-driven automations, and custom business software for local 
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Altorru&show_icons=true&theme=default&hide_title=false" alt="GitHub stats" />
+  <img src="./generated/overview.svg" alt="GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Altorru" alt="GitHub streak" />
+  <img src="./profile/streak.svg" alt="GitHub streak" />
 </p>
 
 ---
