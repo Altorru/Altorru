@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           filename: generated/overview.svg
           base: header, repositories
           plugin_isocalendar: yes
