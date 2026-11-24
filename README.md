@@ -56,6 +56,10 @@ Currently completing a Bachelor CDA (Concepteur Développeur d'Applications) in 
 
 ### Featured Work
 
+**VIctory** — Grand Theft Auto VI on Windows (compatibility research)
+An early-stage native Windows runtime for the Xbox Series X|S build, using files supplied by the user. Boot, menus, loading and shader translation work; the world renderer is still incomplete, so this is not yet a playable port. My work focuses on AMD RDNA2 shader lowering to DXIL and cube-array sampling.
+🔗 [Marvisak/VIctory](https://github.com/Marvisak/VIctory) · [my fork](https://github.com/Altorru/VIctory)
+
 **Prestalys** — Marketplace connecting clients with local service providers
 Full-stack web app with production-ready legal pages (CGU, mentions légales, privacy policy) built for RGPD/LCEN compliance.
 *In development — not yet public.*
